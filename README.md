@@ -1,5 +1,3 @@
-Certainly! Below is the complete README file for your "100 Seconds Survival" game in Markdown format, which you can copy directly into your GitHub repository:
-
 # 100 Seconds Survival
 
 ## Overview
