@@ -20,9 +20,7 @@ Ensure you have a C++ development environment set up with the EasyX library inst
 
 ### Installation
 1. Clone the repository:
-   
    git clone https://github.com/shakib2412/100SecondsSurvival.git
-   ```
 2. Open the project in your preferred C++ IDE that supports EasyX.
 3. Compile and run the `Hang on for 100 seconds.cpp`.
 
